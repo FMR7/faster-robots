@@ -2,8 +2,7 @@
 Version: 0.0.3
 Date: 2023-04-14
   Changes:
-    - Override AtomicRobots own robots
-    - Override Krastorio2 speed changes on base robots
+    - Override other mods
 ---------------------------------------------------------------------------------------------------
 Version: 0.0.2
 Date: 2019-06-24
